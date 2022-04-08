@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "lib/discorb/voice_dlls/version"
-
 Gem::Specification.new do |spec|
   spec.name = "discorb-voice_dlls"
   spec.version = Time.now.strftime("%Y.%m.%d")
