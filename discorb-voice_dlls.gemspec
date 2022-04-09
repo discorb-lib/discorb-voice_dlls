@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = "discorb-voice_dlls"
-  spec.version = Time.now.strftime("%Y.%m.%d")
+  spec.version = "1.0.0"
   spec.authors = ["sevenc-nanashi"]
   spec.email = ["sevenc-nanashi@sevenbot.jp"]
 
